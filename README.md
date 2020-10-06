@@ -37,7 +37,7 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
   name="viewport"
   content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
 />
-```
+```et 
 
 Cela permet d'eviter que l'utilisateur zoom dans votre page web pour naviguer
 
